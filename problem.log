@@ -1,0 +1,30 @@
+ERROR:root:division by zero
+INFO:root:division by zero
+INFO:root:division by zero
+INFO:root:Application finished!
+ERROR:root:Everything is OK!
+INFO:root:Application finished!
+INFO:root:Application finished!
+INFO:root:list index out of range
+INFO:root:Application finished!
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+ERROR:root:not writable
+ERROR:root:not writable
+INFO:root:list index out of range
+ERROR:root:list index out of range
+INFO:root:Application finished!
+ERROR:root:not writable
